@@ -144,7 +144,7 @@ This tool is released under the [MIT License](LICENSE) for **ethical use only**.
 
 ## 👨‍💻 Author
 
-Created by **Mayank Panchal**  
+Created by **Rushi Soalnki**  
 For ethical red team simulation, email filtering evaluation, and cybersecurity education.
 
 ---
