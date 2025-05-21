@@ -1,6 +1,6 @@
-# 💀 PhantomMailer
+# 💀 PhantomMailer Pro
 
-**PhantomMailer** is a web-based email spoofing tool built using Flask and Postfix. It is designed for ethical red teaming, penetration testing, and SPF/DKIM/DMARC testing in secure lab environments.
+**PhantomMailer Pro** is a web-based email spoofing tool built using Flask and Postfix. It is designed for ethical red teaming, penetration testing, and SPF/DKIM/DMARC testing in secure lab environments.
 
 ---
 
@@ -125,7 +125,7 @@ To send spoofed emails to Gmail/Outlook:
 ## 📦 Folder Structure
 
 ```
-phantommailer/
+PhantomMailer_pro/
 ├── app.py
 ├── spoof_mailer.py
 ├── requirements.txt
