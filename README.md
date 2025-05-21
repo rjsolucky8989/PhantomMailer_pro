@@ -1,6 +1,6 @@
 # 💀 PhantomMailer
 
-**PhantomMailer** is a web-based email spoofing tool built using Flask and Postfix. Inspired by [emkei.cz](https://emkei.cz/), it is designed for ethical red teaming, penetration testing, and SPF/DKIM/DMARC testing in secure lab environments.
+**PhantomMailer** is a web-based email spoofing tool built using Flask and Postfix. It is designed for ethical red teaming, penetration testing, and SPF/DKIM/DMARC testing in secure lab environments.
 
 ---
 
@@ -13,7 +13,7 @@
 ## 🎯 Features
 
 - 🔥 Send spoofed emails from any sender address
-- 🌐 Web interface (like Emkei.cz)
+- 🌐 Web interface
 - 📨 Send messages using your local Postfix SMTP server (no authentication)
 - 🧪 Ideal for testing spam filters, SPF, DKIM, and DMARC policies
 - 💻 100% local — no data leaves your machine
@@ -22,7 +22,7 @@
 
 ## 📸 Screenshot
 
-*(Insert a screenshot of the running tool here if desired)*
+![Alt text]("C:\Users\dellg\Documents\GitHub\PhantomMailer_pro\phantomamail.png")*(Insert a screenshot of the running tool here if desired)*
 
 ---
 
