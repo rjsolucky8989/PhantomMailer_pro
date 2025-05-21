@@ -22,7 +22,7 @@
 
 ## 📸 Screenshot
 
-![Spoofing Tool]("phantomamail.png")
+![Spoofing Tool](/phantomamail.png)
 
 ---
 
