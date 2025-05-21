@@ -22,7 +22,7 @@
 
 ## 📸 Screenshot
 
-![Alt text]("C:\Users\dellg\Documents\GitHub\PhantomMailer_pro\phantomamail.png")*(Insert a screenshot of the running tool here if desired)*
+![Alt text]("/phantomamail.png")*(Insert a screenshot of the running tool here if desired)*
 
 ---
 
@@ -129,6 +129,7 @@ phantommailer/
 ├── app.py
 ├── spoof_mailer.py
 ├── requirements.txt
+├── phantomamail.png
 ├── templates/
 │   └── index.html
 └── README.md
@@ -144,7 +145,7 @@ This tool is released under the [MIT License](LICENSE) for **ethical use only**.
 
 ## 👨‍💻 Author
 
-Created by **Rushi Soalnki**  
+Created by **Rushi Solanki**  
 For ethical red team simulation, email filtering evaluation, and cybersecurity education.
 
 ---
