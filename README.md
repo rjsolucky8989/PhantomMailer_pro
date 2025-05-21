@@ -22,7 +22,7 @@
 
 ## 📸 Screenshot
 
-![Alt text]("/phantomamail.png")*(Insert a screenshot of the running tool here if desired)*
+![Spoofing Tool]("phantomamail.png")
 
 ---
 
